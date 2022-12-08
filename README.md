@@ -1,10 +1,11 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Muhammed Taha Çınar</h1>
 <h3 align="center">Android Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format">
+<h5 align="center"></h5>
+<img align="right" alt="Coding" width="250" src="https://media.tenor.com/cdu8MIU0Mq0AAAAC/android-google-happy-google.gif?w=700&h=525&auto=format">
 
 
-📫 Bana ulaşmak isterseniz **tahacinar@outlook.com.tr**
+📫 How to reach me **tahacinar@outlook.com.tr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
