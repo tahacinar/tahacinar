@@ -4,7 +4,7 @@
 <h5 align="center"></h5>
 
 
-<h3 align="center">📫 How to reach me tahacinar@outlook.com.tr </h3>
+
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
